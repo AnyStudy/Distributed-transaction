@@ -1,0 +1,2 @@
+# Distributed-transaction
+本仓库主要总结我以往对分布式事务的总结以及我认为好的文章的汇集
